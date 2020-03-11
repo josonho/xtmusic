@@ -883,8 +883,8 @@ body{
     border-radius: 5px;
     /*相对屏幕定位*/
     position:fixed;
-    top: 370px;
-    left: 1186px;
+    bottom: 120px;
+    right: 50px;
 }
 .return-jt{
     height: 6px;
